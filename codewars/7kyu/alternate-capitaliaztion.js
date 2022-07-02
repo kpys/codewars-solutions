@@ -18,4 +18,4 @@ function capitalize(s){
     let first = s.split('').map((x,i) => i % 2 === 0 ? x.toUpperCase() : x.toLowerCase()).join('')
     let second = s.split('').map((x,i) => i % 2 !== 0 ? x.toUpperCase() : x.toLowerCase()).join('')
     return [first,second];
-  };
+  };    
