@@ -21,7 +21,7 @@
 // For More Enjoyable Katas
 // ALL translations are welcomed
 // Enjoy Learning !!
-// Zizou........
+// Zizou..........
 
 function minSum(arr) {
     let result = []
